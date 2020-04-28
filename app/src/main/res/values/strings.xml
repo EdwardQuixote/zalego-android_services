@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ServiceProject</string>
+
+    <string name="txtHelloWorld">Hello World</string>
+
+    <string name="btnStartService">Start Service</string>
+    <string name="btnStopService">Stop Service</string>
+
+</resources>
